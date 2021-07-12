@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC HP, i5",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Samsung S20",
+      "price": 5.89
+    },
+    {
+      "name": "NoteBook",
+      "price": 234.5,
+      "id": 3
+    },
+    {
+      "name": "Nokia",
+      "price": 72.5,
+      "id": 4
+    }
+  ]
+}
